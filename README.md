@@ -1,7 +1,7 @@
 # ocrprocessing
 Image to Text conversion using tesseract
 
-
+Rename image to input_image or update code with image name .Copy the python file to same folder where image is saved .
 Run ocr_preprocess.py file to extract text from images
 
 tesseract: This is the command-line executable for Tesseract OCR.
